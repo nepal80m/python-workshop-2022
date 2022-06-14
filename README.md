@@ -1,6 +1,7 @@
 # Day 1 :
 ## Python Introduction
 - Introduction to Python
+- Primitive Datatype
 - Variables
 - Operators
 - IO
