@@ -1,7 +1,7 @@
 # Day 1 :
 ## Python Introduction
 - Introduction to Python
-- Primitive Datatype
+- Primitive Datatypes
 - Variables
 - Operators
 - IO
@@ -14,10 +14,3 @@
 - if else
 - while loop
 - for loop
-# Day 2:
-## Python Function
-## Python Files
-# Day 3:
-## Python Object and Class
-# Day 4:
-# Day 5:  
