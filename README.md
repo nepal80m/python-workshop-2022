@@ -1,4 +1,4 @@
-# Day 1 :
+#Syllabus
 ## Python Introduction
 - Introduction to Python
 - Primitive Datatypes
